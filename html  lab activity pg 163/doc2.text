@@ -1,0 +1,27 @@
+
+
+<html>
+<head>
+<title>Document1</title>
+</head>
+<body bgcolor='yellow'>
+<FONT FACE='ARIAL BLACK' SIZE=2 >
+<table border=2 color='black'bgcolor='peachpuff'CELLPADDING=5 CELLSPACING=5 HEIGHT=300 WIDTH=300>
+<th colspan=4 align='center' bgcolor='blue'>Inside Story</th>
+<tr bgcolor='green'>
+<td>The<br>Process</td>
+<td>What it is?</td>
+<td>Graphical<br>Representation</td>
+</tr>
+<tr>
+<td>Digestion</td>
+<td>Digestion is the process of breaking down the food and drink into smaller molecules like<b> carbohydrates,proteins,fats and vitamins.</b></td>
+<td><a href='digestive.jpg'target='frame3'>pic</a></td>
+</tr>
+<tr>
+<td>Respiration</td>
+<td>Respiration is the process of<b> exchange of oxygen and carbon dioxide</b> between the atmosphere and the body cells</td>
+<td><a href='resp.jpeg'target='frame3'>pic</a></td>
+</tr>
+</body>
+</html>
